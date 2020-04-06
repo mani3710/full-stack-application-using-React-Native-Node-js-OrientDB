@@ -1,0 +1,51 @@
+{
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web",
+    "eject": "expo eject"
+  },
+  "dependencies": {
+    "@react-native-community/masked-view": "0.1.5",
+    "@thewizard0f0z/randomid-generator": "^1.0.3",
+    "expo": "^36.0.2",
+    "expo-permissions": "^8.0.0",
+    "nanoid": "^3.0.0",
+    "react": "~16.9.0",
+    "react-dom": "~16.9.0",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-36.0.0.tar.gz",
+    "react-native-android-fullscreen-webview-video": "^1.0.4",
+    "react-native-elements": "^1.2.7",
+    "react-native-gesture-handler": "~1.5.0",
+    "react-native-get-random-values": "^1.3.1",
+    "react-native-loading-spinner-overlay": "^1.1.0",
+    "react-native-reanimated": "~1.4.0",
+    "react-native-safe-area-context": "0.6.0",
+    "react-native-screens": "2.0.0-alpha.12",
+    "react-native-simple-dialogs": "^1.2.1",
+    "react-native-snap-carousel": "^3.8.4",
+    "react-native-tab-view": "^2.13.0",
+    "react-native-tab-view-viewpager-adapter": "^1.0.7",
+    "react-native-textinput-with-icons": "^1.0.18",
+    "react-native-vector-icons": "^6.6.0",
+    "react-native-web": "~0.11.7",
+    "react-native-webview": "^7.4.3",
+    "react-native-youtube": "^2.0.0",
+    "react-native-youtube-iframe": "^1.2.0",
+    "react-navigation": "^4.3.3",
+    "react-navigation-stack": "^1.10.3",
+    "react-navigation-tabs": "^2.8.7",
+    "react-redux": "^7.2.0",
+    "redux": "^4.0.5",
+    "redux-thunk": "^2.3.0",
+    "styled-components": "^5.0.1",
+    "uuid": "^7.0.3"
+  },
+  "devDependencies": {
+    "babel-preset-expo": "~8.0.0",
+    "@babel/core": "^7.0.0"
+  },
+  "private": true
+}
