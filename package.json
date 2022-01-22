@@ -12,7 +12,7 @@
     "@thewizard0f0z/randomid-generator": "^1.0.3",
     "expo": "^36.0.2",
     "expo-permissions": "^8.0.0",
-    "nanoid": "^3.0.0",
+    "nanoid": "^3.1.31",
     "react": "~16.9.0",
     "react-dom": "~16.9.0",
     "react-native": "https://github.com/expo/react-native/archive/sdk-36.0.0.tar.gz",
